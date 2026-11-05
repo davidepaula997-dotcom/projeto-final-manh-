@@ -9,3 +9,9 @@
   	
     justify-content: center;
 }
+.label{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  min-height: 100vh;
+  width: 100%;
+}
